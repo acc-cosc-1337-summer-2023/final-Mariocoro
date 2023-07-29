@@ -7,4 +7,4 @@ public:
 	Die();
 	void roll();
 	int roll_value() const;
-};
+};...

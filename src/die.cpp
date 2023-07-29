@@ -9,4 +9,4 @@ void Die::roll() {
 
 int Die::roll_value() const {
 	return rolled_value;
-}
+}..
